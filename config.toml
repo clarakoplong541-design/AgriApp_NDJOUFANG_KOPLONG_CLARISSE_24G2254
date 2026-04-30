@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#2e7d32"        # Vert agricole
+backgroundColor = "#f0fff0"     # Vert très clair (au lieu de blanc)
+secondaryBackgroundColor = "#e8f5e9"  # Vert pastel
+textColor = "#000000"           # Texte noir
+font = "sans serif"
